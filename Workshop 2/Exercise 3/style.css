@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(79, 216, 90);
+}
+h1{
+    color: rgb(128, 49, 49);
+    font-family: sans-serif;
+}
+h2{
+color: rgb(128, 49, 49);
+}
+h3{
+    font-weight: bolder;
+    font-family: sans-serif;
+}
+h4{
+font-weight: bolder;
+font-size: large;
+font-style: italic;
+border: 3px;
+border-style: dotted;
+border-color: rgb(114, 114, 128);
+color: rgb(243, 108, 108);
+}
+h5{
+    font-style: italic;
+    font-weight: bolder;
+    font-size: medium;
+}
+div{
+    border: 5px;
+    border-style: solid;
+    border-color: rgb(184, 184, 214);
+    padding: 20px;
+}
+section{
+    border: 3px;
+    border-style: solid;
+    border-color: rgb(87, 51, 51);
+    padding: 20px;  
+}
+hr{
+    height: 1px;
+    background-color: darkred;
+    border: none;
+}
+#myheader h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+a:hover{
+    background-color: blueviolet;
+
+}
